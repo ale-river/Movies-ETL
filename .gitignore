@@ -1,3 +1,10 @@
+# Add config.py file.
+config.py
+
+# CSV Files
+movies.csv
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
