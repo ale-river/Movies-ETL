@@ -29,7 +29,7 @@ Aditionally, it is created a tuple applying the lambda function in order to cond
 Finally, during the ETL process, there were designed two databases.
 
 Movies Database
-![Movies](Movies-ETL/blob/main/resources/Movies%20Database.png)
+![Movies](resources/Movies%20Database.png)
 
 Ratings Database
-![Ratings](Movies-ETL/blob/main/resources/Ratings%20Database.png)
+![Ratings](resources/Ratings%20Database.png)
